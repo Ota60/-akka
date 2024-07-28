@@ -1,1 +1,1 @@
-# -akka
+Önemli disk geri getirici
